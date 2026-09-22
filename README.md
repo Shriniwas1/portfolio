@@ -164,17 +164,6 @@ Data & Analytics
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shriniwas1&show_icons=true&theme=tokyonight&hide_border=true" alt="Shriniwas's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shriniwas1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 💻 Portfolio Setup
 
